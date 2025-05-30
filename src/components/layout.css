@@ -1,0 +1,44 @@
+.page-container {
+  max-width: 1166px;
+  background: #f9f9f9;
+  border: 1px solid #ccc;
+  padding: 6px 16px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  background-color: #ffffff; /* byt till den färg du vill */
+  min-height: 100vh;         /* ser till att bakgrunden täcker hela höjden */
+  padding: 1rem;             /* valfri padding */
+}
+
+.page-title {
+  margin: 1rem;
+  font-size: 1.25rem;
+  background-color: #1f4f82;
+  color: white;
+  padding: 8px;
+  border-radius: 8px;
+  text-shadow: #000 1px 1px 1px;
+}
+
+.page-content {
+  padding: 1rem;
+  padding-top: 10px;
+  margin-top: 1px;
+  display: flex;
+}
+
+.column-header {
+  background-color: #1f4f82;
+  color: white;
+  padding: 8px;
+  text-align: left;
+  border-radius: 8px;
+}
+body {
+  background-color: #dee0e2;
+  margin: 0;
+  padding: 0;
+}

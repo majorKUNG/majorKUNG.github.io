@@ -1,0 +1,116 @@
+.team-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  text-align: center;
+  text-shadow: #000 1px 1px 1px;
+}
+
+.team-table {
+  width: 1100px;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+.team-table2 {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+.team-table th,
+.team-table td {
+  border: 0px solid #ccc;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  text-decoration: none;
+}
+
+.team-table th {
+  background-color: #1f4f82;
+  color: white;
+  text-shadow: #000 1px 1px 1px; 
+}
+
+.team-table2 th,
+.team-table2 td {
+  border: 0px solid #ccc;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  text-decoration: none;
+}
+
+.team-table2 th {
+  background-color: #1f4f82;
+  color: white;
+  text-shadow: #000 1px 1px 1px; 
+}
+
+th.th1:first-child {
+  border-radius: 10px 0 0 10px;
+}
+
+th.th1:last-child {
+  border-radius: 0 10px 10px 0;
+}
+
+td.td1:first-child {
+  border-radius: 10px 0 0 10px;
+}
+
+td.td1:last-child {
+  border-radius: 0 10px 10px 0;
+}
+
+.team-table tr {
+  background-color: #f7f4f4;
+}
+
+tr.line-separator {
+  background-color: #ffffff;
+  font-weight: bold;
+}
+
+.team-table tr:hover {
+  background-color: #ffffff;
+}
+
+  tr:nth-child(even) {background-color: #f1f0f0;}
+
+
+.player-link {
+  color: #1a0dab;
+  text-decoration: none;
+}
+
+.player-link:hover {
+  text-decoration: underline;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active{
+  color:#1f4f82;
+  text-decoration:none;
+  cursor: pointer;
+}
+
+.schedule-day-row {
+  background-color: #dbe2e8;
+  font-weight: bold;
+  text-align: left;
+}
+
+.finance-box {
+  text-align: center;
+}
+
+.stadium-table td, .stadium-table th {
+  width: 33.33%;
+  text-align: center;
+  vertical-align: middle;
+  padding: 12px 0;
+}
+
+.stadium-table th.th2 {
+  background: var(--your-th2-bg, #f0f0f0); /* Use your .th2 color here */
+  color: #222;
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "managerName": "majorKUNG",
+    "email": "andreas.major@gmail.com",
+    "password": "1",
+    "teamId": 1
+  },
+  {
+    "id": 2,
+    "managerName": "Martin",
+    "email": "maj0ren@hotmail.com",
+    "password": "1",
+    "teamId": 2
+  },
+  {
+    "id": 3,
+    "managerName": "1",
+    "email": "andreas.major@gmail.com1",
+    "password": "1",
+    "teamId": 3
+  },
+  {
+    "id": 4,
+    "managerName": "Wanko",
+    "email": "andreas.major@gmail.com11",
+    "password": "1",
+    "teamId": 4
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "name": "Västerås IK",
+    "region": "Sweden",
+    "managerId": 1,
+    "leagueId": 1
+  },
+  {
+    "id": 2,
+    "name": "Kundportalen HC",
+    "region": "Sweden",
+    "managerId": 2,
+    "leagueId": 1,
+    "isBot": false
+  },
+  {
+    "id": 3,
+    "name": "1",
+    "region": "Sweden",
+    "managerId": 3,
+    "leagueId": 1,
+    "isBot": false
+  },
+  {
+    "id": 4,
+    "name": "Irsta Vikings",
+    "region": "Sweden",
+    "managerId": 4,
+    "leagueId": 1,
+    "isBot": false
+  },
+  {
+    "id": 5,
+    "name": "Golden Lions ✚",
+    "region": "Sweden",
+    "managerId": null,
+    "leagueId": 1,
+    "isBot": true
+  },
+  {
+    "id": 6,
+    "name": "Red Foxes ✚",
+    "region": "Sweden",
+    "managerId": null,
+    "leagueId": 1,
+    "isBot": true
+  },
+  {
+    "id": 7,
+    "name": "River Stallions ✚",
+    "region": "Sweden",
+    "managerId": null,
+    "leagueId": 1,
+    "isBot": true
+  },
+  {
+    "id": 8,
+    "name": "Red Gulls ✚",
+    "region": "Sweden",
+    "managerId": null,
+    "leagueId": 1,
+    "isBot": true
+  },
+  {
+    "id": 9,
+    "name": "Royal Moose ✚",
+    "region": "Sweden",
+    "managerId": null,
+    "leagueId": 1,
+    "isBot": true
+  },
+  {
+    "id": 10,
+    "name": "Central Coyotes ✚",
+    "region": "Sweden",
+    "managerId": null,
+    "leagueId": 1,
+    "isBot": true
+  },
+  {
+    "id": 11,
+    "name": "East Wolves ✚",
+    "region": "Sweden",
+    "managerId": null,
+    "leagueId": 1,
+    "isBot": true
+  },
+  {
+    "id": 12,
+    "name": "Red Falcons ✚",
+    "region": "Sweden",
+    "managerId": null,
+    "leagueId": 1,
+    "isBot": true
+  }
+]
